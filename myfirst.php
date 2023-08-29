@@ -2,7 +2,7 @@
 
 echo "hello<br>1";
 echo "This is my first jenkin configuration- update3";
-    echo "new test"; 
+    echo "new test123"; 
         //if
 /*test*/
 
