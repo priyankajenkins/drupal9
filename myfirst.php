@@ -8,6 +8,6 @@ echo "This is my first jenkin configuration- update3";
 
 echo "test at Agu 23";
 echo "test2";
-echo "test 5";
+echo "test 5@4";
 
 
