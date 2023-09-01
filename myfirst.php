@@ -7,7 +7,6 @@ echo "This is my first jenkin configuration- update3";
 /*test*/
 
 echo "test at Agu 23";
-echo "test2";
-echo "test 5@4";
+echo "test 5@4 and 1234";
 
 
