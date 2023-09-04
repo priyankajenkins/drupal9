@@ -8,5 +8,5 @@ echo "This is my first jenkin configuration- update3";
 
 echo "test at sept1";
 echo "test at sept 4";
-
+echo "test at sept 4 new";
 
